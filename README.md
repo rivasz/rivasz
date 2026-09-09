@@ -11,11 +11,11 @@
 
 ---
 
-### 🚀 Sobre Mim
-Atualmente estou cursando o **3º Ano de Engenharia de Software na FIAP (Unidade Paulista)**. Logo durante meu 1º ano fomos inundados de IA, e a Fiap respondeu muito rápido ja adicionando materia e recursos suficientes pra pudessemos alavancar nesse mercado, não demorou muito pra IA acabar fazendo minha cabeça pra começar automatizando varias coisas:
+### 🚀 Meu Começo
+- Desde os 14 anos programava plugins para servidores de Minecraft, mas nada muito grande, decidi então ir atras de um ensino medio técnico de ADS, foi assim que conheci a **FIAP School** em 2020, apos concluir o ensino medio tecnico decidi seguir o caminho e ingressei na Faculdade da FIAP cursando Engenharia de Software e entao fomos inundados pela bolha da IA, a fiap agiu rapido e adicionou muitas formas de nos ensinar IA desde o começo do curso, admito que isso me fez animar ainda mais ja que eu era apenas um tecnologo fazendo trabalhos de nivel profissional em pouquissimo tempo e esforço, e entao comecei a desenvover alguns trabalhos:
 
 - 💻 Comecei meu Bot do Discord: *TypeScript, Build em JavaScript* atualmente com código privado mas você pode ter um cheiro de como ele funciona.
-- 🚗 Trabalho com a Ford: *TypeScript*
+- 🚗 Trabalho com a Ford: *TypeScript, JavaScript e CSS* para nosso trabalho anual do 3º Ano
 - ⚡ Curiosidade: Sempre construindo projetos fora da caixa nas madrugadas.
 
 ---
