@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 Sobre Mim
-Atualmente estou cursando o **3º Ano de Engenharia de Software na FIAP (Unidade Paulista)**. Sou fã de desenvolver soluções eficientes, clean code e explorar novas tecnologias do mercado. 
+Atualmente estou cursando o **3º Ano de Engenharia de Software na FIAP (Unidade Paulista)**. Logo durante meu 1º ano fomos inundados de IA, e a Fiap respondeu muito rápido ja adicionando materia e recursos suficientes pra pudessemos alavancar nesse mercado, não demorou muito pra IA acabar fazendo minha cabeça pra começar automatizando varias coisas:
 
-- 💻 Principais stacks: *TypeScript, React, Node.js, Python, Java* (adicione/remova as suas aqui)
-- 🎯 Foco atual: Arquitetura de Software e Cloud Computing
+- 💻 Comecei meu Bot do Discord: *TypeScript, Build em JavaScript* atualmente com código privado mas você pode ter um cheiro de como ele funciona.
+- 🚗 Trabalho com a Ford: *TypeScript*
 - ⚡ Curiosidade: Sempre construindo projetos fora da caixa nas madrugadas.
 
 ---
