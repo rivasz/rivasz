@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 Meu Começo
-- Desde os 14 anos programava plugins para servidores de Minecraft, mas nada muito grande, decidi então ir atras de um ensino medio técnico de ADS, foi assim que conheci a **FIAP School** em 2020, apos concluir o ensino medio tecnico decidi seguir o caminho e ingressei na Faculdade da FIAP cursando Engenharia de Software e entao fomos inundados pela bolha da IA, a fiap agiu rapido e adicionou muitas formas de nos ensinar IA desde o começo do curso, admito que isso me fez animar ainda mais ja que eu era apenas um tecnologo fazendo trabalhos de nivel profissional em pouquissimo tempo e esforço, e entao comecei a desenvover alguns trabalhos:
+Tudo começou aos 14 anos codando plugins de Minecraft — nada muito sério no começo, mas o suficiente para me viciar em código. Fui atrás de um ensino médio técnico em ADS e dei de cara com a **FIAP School** em 2020. Curti tanto a vibe que emendei direto na graduação de Engenharia de Software na própria FIAP. Logo no início, a bolha da IA estourou e a faculdade adaptou a grade muito rápido. Para mim foi um prato cheio: passei a entregar projetos de nível profissional voando e com muito mais eficiência. Foi aí que saí do papel e comecei a botar a mão na massa de verdade:
 
-- 💻 Comecei meu Bot do Discord: *TypeScript, Build em JavaScript* atualmente com código privado mas você pode ter um cheiro de como ele funciona.
-- 🚗 Trabalho com a Ford: *TypeScript, JavaScript e CSS* para nosso trabalho anual do 3º Ano
+- 🤖 [Bot do Discord:](https://github.com/rivasz/ASAS-Bot2) Desenvolvido em TypeScript (compilado para JavaScript). Atualmente com código privado, mas com arquitetura robusta voltada para automações complexas.
+- 🚗 [Projeto com a Ford:](https://github.com/MAJE-Dev/FordAI) Aplicação desenvolvida com TypeScript, JavaScript e CSS como parte do desafio anual do 3º ano da graduação.
 - ⚡ Curiosidade: Sempre construindo projetos fora da caixa nas madrugadas.
 
 ---
